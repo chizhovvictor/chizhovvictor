@@ -2,6 +2,7 @@
 **chizhovvictor/chizhovvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img src="https://github.com/chizhovvictor/chizhovvictor/blob/main/images/head.jpg" />
 
 # About me
 - 👋 Hi, I’m Victor Chizhov
