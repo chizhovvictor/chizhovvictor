@@ -45,11 +45,14 @@
 ---
 
 ### My Stats :
-
 <p align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chizhovvictor&hide_border=true)](https://git.io/streak-stats)">
+</p>
+<p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=chizhovvictor">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chizhovvictor&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+<p align=center>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chizhovvictor">>
 </p>
 
 
