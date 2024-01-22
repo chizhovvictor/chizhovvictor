@@ -44,15 +44,15 @@
 
 ---
 
-### My Stats :
-<!-- <p align=center>
+<!-- ### My Stats :
+<p align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chizhovvictor&hide_border=true)](https://git.io/streak-stats)">
-</p> -->
+</p>
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=chizhovvictor">
 </p>
 <p align=center>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chizhovvictor">
-</p>
+</p> -->
 
 
