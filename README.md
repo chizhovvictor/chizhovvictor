@@ -6,10 +6,10 @@
 -->
 # About me
 - 👋 Hi, I’m Victor Chizhov
-- 👀 I’m interested in everything related to frontend development. I like flutter, dart, vue, javascript, bootstrap, a bit of devops (docker, kubernetes), and of course writing database queries
+- 👀 I’m interested in everything related to software development. I like flutter, dart, react, javascript, bootstrap, devops (docker, kubernetes), and of course writing database queries
 - 🌱 At the moment I am studying at at ecole 42 and I have over 2 years experience as a frontend developer
-- 📱 I’m currently learning various technologies in the field of mobile with flutter
-- 💞️ I like С/С++ and everything related to mobile... and games. But I have zero experience in game development... While I'm studying. But if my experience does not matter to you, then I will be happy to have an internship with you in these areas.
+- 📱 I’m currently learning various technologies in the field of nets
+- 💞️ I like С/С++. While I'm studying. But if my experience does not matter to you, then I will be happy to have an internship with you in these areas.
 - 📫 You can contact me by email victor.chizhov93@gmail.com or linkedin www.linkedin.com/in/victor-chizhov
 
 ---
