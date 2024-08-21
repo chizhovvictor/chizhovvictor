@@ -6,30 +6,28 @@
 -->
 # About me
 - 👋 Hi, I’m Victor Chizhov
-- 👀 I’m interested in everything related to software development. I like flutter, dart, react, javascript, bootstrap, devops (docker, kubernetes), and of course writing database queries
-- 🌱 At the moment I am studying at at ecole 42 and I have over 2 years experience as a frontend developer
-- 📱 I’m currently learning various technologies in the field of nets
-- 💞️ I like С/С++. While I'm studying. But if my experience does not matter to you, then I will be happy to have an internship with you in these areas.
+- 👀 I am a DevOps and systems engineering specialist with a deep understanding of virtualization, system administration, monitoring, and networking technologies. Proficiency in Bash and Python for task automation. Experience in setting up and maintaining high-load systems.
+- 🌱 I am currently studying at 42 Paris, a private higher education institution in Paris specializing in computer science.
 - 📫 You can contact me by email victor.chizhov93@gmail.com or linkedin www.linkedin.com/in/victor-chizhov
 
 ---
 
 ### Languages:
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ---
 
 ### Libraries and Frameworks:
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -40,6 +38,9 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible)
 
 
 ---
