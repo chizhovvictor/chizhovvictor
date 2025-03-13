@@ -35,7 +35,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-%234285F4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%230A2B39.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-%2334D9A7.svg?style=for-the-badge&logo=argo-cd&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argocd-EF7B4D?&style=for-the-badge&logo=argo-cd&logoColor=white)
 
 
 
