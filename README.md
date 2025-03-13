@@ -34,8 +34,11 @@
 ![GitLab CI](https://img.shields.io/badge/CI-GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-%234285F4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-%2334D9A7.svg?style=for-the-badge&logo=argo-cd&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-%23326CE5.svg?style=for-the-badge&logo=argo-cd&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%230A2B39.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ---
